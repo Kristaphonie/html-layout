@@ -1,0 +1,29 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.floatThree {
+	float: left;
+}
+
+.leftBox {
+	background: #00aeff;
+	height: 100%;
+	width: 20%;
+}
+
+.middleBox {
+	background: #00fffa;
+	height: 100%;
+	width: 20%;
+}
+
+.rightBox {
+	background: #90ff00;
+	height: 100%;
+}
+
+.bottomRightBox {
+	background: #ff0000;
+}
